@@ -1,9 +1,10 @@
 # SafeX Assistant: A Grounded RAG Chatbot for SafeX Solutions
 
 
-## Internship TASK 1 — HUMA ASLAM, July 2026
+## Internship TASK 1 — July 2026
 
   **Live demo:** https://huggingface.co/spaces/humi69/safex-assistant
+  
   **Source:** https://huggingface.co/spaces/humi69/safex-assistant/tree/main
 
   ---
