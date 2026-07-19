@@ -71,3 +71,4 @@ Built as an AI/ML internship prototype for SafeX Solutions — see `CASE_STUDY.m
 
 **Huma Aslam**
 GitHub: [@humaaslam46](https://github.com/humaaslam46)
+LinkedIn: [@huma-aslam01](https://linkedin.com/in/huma-aslam01)
