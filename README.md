@@ -66,6 +66,7 @@ Deployed as a single Hugging Face Space (Docker SDK). Set `GEMINI_API_KEY` under
 ## 📝 Project background
 
 Built as an AI/ML internship prototype for SafeX Solutions — see `CASE_STUDY.md` in this repo for the complete case study.
+---
 
 ## 👤 Author
 
